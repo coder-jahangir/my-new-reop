@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.name-color {
+    color: rgb(218, 0, 0);
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+    padding-top: 30px;
+    margin-top: 10px;
+}
+
+#hello {
+    padding-top: 300px;
+}
+
+#hi {
+    padding-top: 330px;
+}
+
+.bio {
+    color: #0870f8;
+}
+
+.half-width img {
+    width: 600px;
+}
+
+#img-p {
+    width: 750px;
+}
+
+.link-and-bottom {
+    text-decoration: none;
+    background-color: orangered;
+    margin: 1px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    background-image: linear-gradient(10deg green, orangered);
+}
+
+.top-banner {
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    height: 1000px;
+}
+
+.top-banner1 {
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+    height: 900px;
+}
+
+.my-work {
+    text-align: center;
+    font-size: 50px;
+}
+
+.work-img {
+    width: 28%;
+    float: left;
+    margin-left: 3.5%;
+}
+
+.top-banner2 {
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1900px;
+    height: 1000px;
+}
+
+.para {
+    padding-top: 200px;
+}
+
+.message-me {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100px;
+}
+
+.say {
+    font-size: 70px;
+    color: #b40000;
+}
+
+.CEO {
+    color: gray;
+    font-size: 17px;
+    margin-top: -35px;
+}
+
+.about {
+    text-align: center;
+    box-shadow: 10px 10px 50px;
+    border-radius: 20px;
+    height: 200px;
+    background-color: #e714a1dc;
+    width: 850px;
+    margin-left: 500px;
+    padding-top: 50px;
+    margin-top: 200px;
+    color: white;
+}
+
+.bottom {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+    color: #fa5c01f5;
+    font-size: 16px;
+}
+
+.top-banner3 {
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 1900px;
+    height: 1000px;
+}
